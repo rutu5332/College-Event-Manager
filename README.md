@@ -10,7 +10,7 @@ Admin is handled over server while users are handled over clients.
 Multiple clients are allowed at a time.
 But if server quits its all clients will be exited.
 
-**Admin**
+--> **Admin**
 
 Admin can 
   - create event
@@ -20,7 +20,7 @@ Admin can
   - Chnage Password
 
 
-**User**
+--> **User**
 
 User can 
   - old user can Login
