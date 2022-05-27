@@ -1,0 +1,29 @@
+Name: Lan
+Date: 22-5-2021
+Time: 10:00am                   
+Informtion: The gaming event.
+
+Name: Webpreneurship
+Date: 25-12-2021
+Time: 10:00am
+Information: The Tp hack event
+
+Name: #Coding
+Date: 15-8-2021
+Time: 01:00pm
+Information: PureLy new event
+
+Name: TechiChef
+Date: 09-07-2021
+Time: 08:00pm
+Information: Technical event for code chefs
+
+Name: Hackathon
+Date: 25-12-2021
+Time: 12:00am
+Information: testing 
+
+Name: Coding
+Date: 04-11-2021
+Time: 04:00pm
+Information: Coding events are here                     
