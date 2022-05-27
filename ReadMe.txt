@@ -1,4 +1,3 @@
-************************** READ ME *******************************
 
 This Program is made for the collegeFestival called "SYNAPSE".
 In which their are lots of Event for which a user can Register.
