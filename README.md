@@ -1,3 +1,4 @@
+#Event Management for College Events
 
 This Program is made for the collegeFestival called "SYNAPSE".
 In which their are lots of Event for which a user can Register.
@@ -9,7 +10,8 @@ Admin is handled over server while users are handled over clients.
 Multiple clients are allowed at a time.
 But if server quits its all clients will be exited.
 
-> **Admin**
+**Admin**
+
 Admin can 
   - create event
   - view the event information
@@ -18,7 +20,8 @@ Admin can
   - Chnage Password
 
 
--->User:
+**User**
+
 User can 
   - old user can Login
   - new user can Register
