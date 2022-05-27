@@ -32,4 +32,5 @@ Complie : make
 
 run :
 in 1st terminal -> ./server.out <port>
+
 in 2nd terminal -> ./client.out <host> <port>
